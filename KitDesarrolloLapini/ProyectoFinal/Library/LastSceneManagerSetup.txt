@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Scenes/Espa\xF1ol/Level 4 ESP.unity"
+  isLoaded: 1
+  isActive: 1

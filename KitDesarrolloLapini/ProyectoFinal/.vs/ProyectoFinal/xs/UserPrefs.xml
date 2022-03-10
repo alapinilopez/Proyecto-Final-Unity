@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{3C531D86-F514-8865-5267-1058EFED5D33}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StaticShot.cs">
+    <Files>
+      <File FileName="../../../../../../Volumes/Lapini's di/HotelBeds/Market Hub 2015/Assets/Lapini/Scripts/MainMenuScript.cs" Line="12" Column="4" />
+      <File FileName="../../../../../../Volumes/Lapini's di/HotelBeds/Market Hub 2015/Assets/Mainmenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SceneManagement.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/StaticShot.cs" Line="26" Column="10" />
+      <File FileName="Assets/Scripts/BulletProperties.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/SettingsMenu.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
